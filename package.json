@@ -1,5 +1,5 @@
 {
-  "name": "react-simple-image-preview",
+  "name": "react-simple-images-viewer",
   "version": "1.0.0",
   "description": "A simple image preview component for React",
   "main": "dist/index.js",

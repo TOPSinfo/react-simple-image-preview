@@ -20,7 +20,7 @@ To use these components, copy the `ImagePreview` and `ImagePreviewGroup` code in
 
 ```tsx
 import React from 'react';
-import { ImagePreview } from 'react-simple-image-preview';
+import { ImagePreview } from 'react-simple-images-viewer';
 
 const App: React.FC = () => {
   return (
@@ -49,7 +49,7 @@ export default App;
 
 ```tsx
 import React from 'react';
-import { ImagePreviewGroup, ImagePreview } from 'react-simple-image-preview';
+import { ImagePreviewGroup, ImagePreview } from 'react-simple-images-viewer';
 
 const App: React.FC = () => {
   return (
