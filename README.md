@@ -162,7 +162,7 @@ These components are designed with accessibility in mind. They include ARIA attr
 
 ## Contributing
 
-Contributions are welcome! If you find bugs or have feature requests, feel free to open an issue or submit a pull request to the [GitHub repository](https://github.com/your-repo-url).
+Contributions are welcome! If you find bugs or have feature requests, feel free to open an issue or submit a pull request to the [GitHub repository](https://github.com/TOPSinfo/react-simple-image-preview.git).
 
 ---
 

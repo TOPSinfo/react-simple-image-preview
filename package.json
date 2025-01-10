@@ -4,6 +4,11 @@
   "description": "A simple image preview component for React",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "homepage": "https://github.com/TOPSinfo/react-simple-image-preview.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TOPSinfo/react-simple-image-preview.git"
+  },
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "npm run build"
